@@ -1,2 +1,2 @@
-FROM gcr.io/spinnaker-marketplace/clouddriver:2.0.0-20180221152902
-LABEL version="2.0.0-20180221152902"
+FROM gcr.io/spinnaker-marketplace/clouddriver:3.4.2-20180828182842
+LABEL version="3.4.2-20180828182842"
